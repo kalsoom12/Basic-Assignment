@@ -26,7 +26,7 @@ namespace Data_Types
         {
             Console.WriteLine("01 - Press 1 to run write hello and name in new line.");
             Console.WriteLine("02 - Press 2 to run Display Reverse Letter.");
-            Console.WriteLine("03 - Press 3 to run  Displays Triangle.");
+            Console.WriteLine("03 - Press 3 to run  Displays Triangle.");//
             Console.WriteLine("04 - Press 4 to run Check User Account.");
             Console.WriteLine("05 - Press 5 to run Perform An Operation.");
             Console.WriteLine("06 - Press 6 to run  Calculate The Perimeter");
